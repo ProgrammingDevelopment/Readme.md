@@ -48,7 +48,7 @@ I'm passionate about software development, open source, and building impactful A
 - 🌱 **Currently Learning**: Cloud computing, DevOps, and AI/ML for local impact.
 - 🛠️ **Projects**: Building web apps, automation scripts, and open source tools.
 - 🤝 **Collaboration**: Open to joining innovative projects and research.
-- 📫 **Contact Me**: [LinkedIn](https://www.linkedin.com/in/swandaru-tirta-sandhika/) | Localguess02@gmail.com
+- 📫 **Contact Me**: [LinkedIn](https://www.linkedin.com/in/swandaru-tirta-sandhika/) | swandarutirtasandhika1@gmail.com
 
 ---
 
